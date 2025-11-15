@@ -1,0 +1,3 @@
+Set Timer by Event/Functions(纯函数无输入)
+    设置一个计数器,打开Loop就是每单位时间调用
+    可以在计时器函数里取消计时器

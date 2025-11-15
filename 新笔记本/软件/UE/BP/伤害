@@ -1,0 +1,2 @@
+Actor中的Damage与组件中Bind的OnTakeDamage是一个事件
+如果伤害量传入为零UE自动优化不触发事件

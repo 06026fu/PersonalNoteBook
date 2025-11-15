@@ -1,0 +1,4 @@
+Gaea：
+Gaea Documents C:\Users\Administrator\Documents\Gaea 
+Projects C:\Users\Administrator\Documents\Gaea\Projec 
+Build Output C:\Users\Administrator\Documents\Gaea\Builds
