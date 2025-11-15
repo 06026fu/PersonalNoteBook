@@ -1,0 +1,8 @@
+动画混合：
+    Layered blend per bone      按骨骼层级混合
+        混合深度越大，效果越不明显
+    混合空间：用于混合动画
+        Ctrl+左键               设置预览值
+动画蓝图初始化问题
+    由于动画初始化与Actor初始化不同步GetOwn会在前期失败
+        添加Beginplay GetOwn->Cast{T:初始化}{F:DelayNextTick}->初始化

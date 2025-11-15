@@ -1,0 +1,12 @@
+cd 目录									切换目录
+ls										列出文件
+./										当前目录
+../										父目录
+mkdir 目录								创建目录
+pwd									打印当前工作路径（打印命令行目前指向的位置）
+cp filel1file2								复制文件（前面复制到后面）
+mv	file 目录	or mv file newfilename		移动文件or重命名
+rm 文件									删除文件
+rmdir 目录								删除目录
+rmdir 目录 -rf								强制删
+cat 文件									打开文件

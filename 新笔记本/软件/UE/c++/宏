@@ -1,0 +1,22 @@
+UCLASS()
+    meta=(ToolTip)  类注释
+    BlueprintType   可作为蓝图变量
+    Blueprinttable  可派生蓝图类
+UFUNCTION()
+    meta=(ToolTip)  函数注释
+    meta=(DisplayName="函数显示名")
+    BlueprintCallable  可在蓝图中调用
+UPROPERTY()
+    meta=(ToolTip)  属性注释
+    meta=(DisplayName="属性显示名")
+    BlueprintReadWrite  可在蓝图中读写
+    BlueprintVisible  可在蓝图中可见
+    BlueprintReadOnly  可在蓝图中只读
+    EditAnywhere  可在任意位置编辑
+    EditDefaultsOnly  仅可在默认值中编辑
+    Category="分类"  分类
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnEvent)
+    FOnEvent OnEvent    事件分发器
+
+
+

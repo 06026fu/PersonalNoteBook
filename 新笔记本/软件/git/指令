@@ -1,0 +1,18 @@
+新建
+    下载Git 下载GitLFS
+    在项目目录:
+        git lfs install
+        git init
+        git lfs track "*.文件后缀"(LFS跟踪，然后会出现一个.gitattributes文件)
+        目录下新建.gitignore然后配置忽略文件
+        git add .
+        git commit -m "注释"
+日常指令
+    查看:
+        git log --oneline
+    提交:
+        git add .
+        git commit -m "注释"
+    回滚:
+        //git add . 后回滚会删除旧版没有的文件
+        git reset --hard 版本号哈希值

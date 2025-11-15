@@ -1,0 +1,3 @@
+GameplayAbility与Character
+    常用
+        Get Avatar Actor form Actor 获取正在执行能力的Actor
