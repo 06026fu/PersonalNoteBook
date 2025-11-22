@@ -1,20 +1,6 @@
-sort           种类/分类/整理
-elementary     简单的
-generous       大方的
-adolenscent    青少年
-interpersonal  人际关系的
-dishonorable   无耻的
-honor          荣誉/信用
-aggressive     侵略性的(好斗)
-! adapt          适应/改编/调整
-found          找(ed)/创建
-rosy           粉红的/如花般的
-dolls          玩具
-share          分享
-status         地位
-classification 分类
-class          级别/类
-examined       检查
-least          最少的
-performed      执行/表演
-academically   学术上
+conclusion		结论
+species			物种
+creatures		生物
+unfortunately	不幸的事
+consequently	结果/因此
+obviously		显然

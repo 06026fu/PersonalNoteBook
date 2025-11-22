@@ -1,64 +1,64 @@
-³åÍ»Àà´Ê»ã{
-	so busy that did`n have time to accompany(sb)	ÊèÓÚÅã°é
-	ignored(sb`s)feeling							ºöÂÔ¸ĞÊÜ
-	pay much attention to(oneself)					Ö»ÔÚºõ×Ô¼º
-	misunderstood his parents						Îó½â
-	lack communcation								È±·¦¹µÍ¨
-	treat others honestly/be honest to others		³ÏÊµ´ıÈË
-	lie to/cheat +(sb)								Ëµ»Ñ
-	disbelieve others								²»ÏàĞÅËûÈË
-	respect others									×ğÖØËûÈË
-	forgive others									Ô­ÁÂËûÈË
-	be too poor to afford(sth)						Ì«Çî¶øÂò²»Æğ
-	have difficulty/trouble getting along with others Ïà´¦ÓĞÀ§ÄÑ
-	be caught/trapped in							±»À§ÔÚ
-	His car broke down								Æû³µÅ×Ãª
-	fail to do sth									Î´ÄÜ×öÄ³ÊÂ
-	can`t adapt to the new environment				²»ÄÜÊÊÓ¦ĞÂ»·¾³
-	feel lonely										¸Ğµ½¹Âµ¥
-	be laughed at by others							±»³°Ğ¦
-	too nervous to do								Ì«½ôÕÅ¶ø²»ÄÜ
-	be weak /not good at							²»ÉÃ³¤
+ï»¿å†²çªç±»è¯æ±‡{
+	so busy that did`n have time to accompany(sb)	ç–äºé™ªä¼´
+	ignored(sb`s)feeling							å¿½ç•¥æ„Ÿå—
+	pay much attention to(oneself)					åªåœ¨ä¹è‡ªå·±
+	misunderstood his parents						è¯¯è§£
+	lack communcation								ç¼ºä¹æ²Ÿé€š
+	treat others honestly/be honest to others		è¯šå®å¾…äºº
+	lie to/cheat +(sb)								è¯´è°
+	disbelieve others								ä¸ç›¸ä¿¡ä»–äºº
+	respect others									å°Šé‡ä»–äºº
+	forgive others									åŸè°…ä»–äºº
+	be too poor to afford(sth)						å¤ªç©·è€Œä¹°ä¸èµ·
+	have difficulty/trouble getting along with others ç›¸å¤„æœ‰å›°éš¾
+	be caught/trapped in							è¢«å›°åœ¨
+	His car broke down								æ±½è½¦æŠ›é”š
+	fail to do sth									æœªèƒ½åšæŸäº‹
+	can`t adapt to the new environment				ä¸èƒ½é€‚åº”æ–°ç¯å¢ƒ
+	feel lonely										æ„Ÿåˆ°å­¤å•
+	be laughed at by others							è¢«å˜²ç¬‘
+	too nervous to do								å¤ªç´§å¼ è€Œä¸èƒ½
+	be weak /not good at							ä¸æ“…é•¿
 }
-ÈËÎïĞÄÀí{
-	"Çé¸ĞÍòÄÜ¾ä"
-	To one`s + ÇéĞ÷[n]
-	sb felt a great sense of + ÇéĞ÷[n] + welling up in sb`s heart and surging through sb Ä³ÈË¸Ğµ½Ò»¹ÉÇ¿ÁÒµÄ...ÔÚÄÚĞÄÉıÌÚ,±¼Ó¿
+äººç‰©å¿ƒç†{
+	"æƒ…æ„Ÿä¸‡èƒ½å¥"
+	To one`s + æƒ…ç»ª[n]
+	sb felt a great sense of + æƒ…ç»ª[n] + welling up in sb`s heart and surging through sb æŸäººæ„Ÿåˆ°ä¸€è‚¡å¼ºçƒˆçš„...åœ¨å†…å¿ƒå‡è…¾,å¥”æ¶Œ
 	
-	±¯ÉË{
-		made me angry/annoyed						ÉúÆøµÄ
-		felt worried/concerned						µ£ĞÄµÄ
-		be displeased/dissatisfied at(sb/sth)		¶ÔÄ³ÈËµÄĞĞÎª²»Âú
-		express/voice a complaint about				¶Ô...²»Âú
-		complain(to do)about sth					ÏòÄ³ÈË±§Ô¹...
-		feel embarrassed							¸Ğµ½ŞÏŞÎµÄ
-		feel puzzled								¸Ğµ½À§»óµÄ
-		feel frustrated/depressed/upset/sad			¾ÚÉ¥µÄ
-		feel annoyed								ÄÕÅ­µÄ
-		feel discoutaged							Ğ¹ÆøµÄ
-		feel ashamed/guilty of						ĞßÀ¢µÄ
-		felt scared/frightened/afraid/terrified		¸Ğµ½º¦ÅÂµÄ
+	æ‚²ä¼¤{
+		made me angry/annoyed						ç”Ÿæ°”çš„
+		felt worried/concerned						æ‹…å¿ƒçš„
+		be displeased/dissatisfied at(sb/sth)		å¯¹æŸäººçš„è¡Œä¸ºä¸æ»¡
+		express/voice a complaint about				å¯¹...ä¸æ»¡
+		complain(to do)about sth					å‘æŸäººæŠ±æ€¨...
+		feel embarrassed							æ„Ÿåˆ°å°´å°¬çš„
+		feel puzzled								æ„Ÿåˆ°å›°æƒ‘çš„
+		feel frustrated/depressed/upset/sad			æ²®ä¸§çš„
+		feel annoyed								æ¼æ€’çš„
+		feel discoutaged							æ³„æ°”çš„
+		feel ashamed/guilty of						ç¾æ„§çš„
+		felt scared/frightened/afraid/terrified		æ„Ÿåˆ°å®³æ€•çš„
 	}
-	¿ªĞÄ{
-		in cheerful spirits							ĞÄÇéÓä¿ì
-		feel a mixture of excitement and happiness	ĞË·ÜÓÖ¿ªĞÄ
-		can hardly hide his excitement				Ï²ÑÕÄÑÑÚ
-		a satisfied look/expression					ÂúÒâµÄ±íÇé
-		be overjoyed over/abstract					Òò...¶ø¸ßĞË
-		dance/jump in joy							¸ßĞËµÄÌøÆğÀ´
-		tears of happiness flow down				Á÷ÏÂĞÒ¸£µÄÀáË®
-		make one`s day								Ê¹Ä³ÈËĞÄÇéÓä¿ì
-		calm sb down								Ê¹Ä³ÈËÆ½¾²
-		I was touched to find that					ÊÇÎÒ¸Ğ¶¯µÄÊÇ
-		It has touched me deeply to					ÉîÊÜ¸Ğ¶¯
-		be moved with tears in one`s eyes			ÈÈÀáÓ¯¿ô
-		Touched deeply/immensenly,we...				±»ÉîÉî¸Ğ¶¯ÎÒÃÇ...
-		be moved/touched by his words				±»ËûµÄ»°¸Ğ¶¯
-		be inspired by								±»...¹ÄÎè
-		be strongly attracted by					±»...ÎüÒı
-		be impressed with							¶Ô...Ó¡ÏóÉî¿Ì
-		be grateful to sb for sth					Òò...¶ø¸Ğ¼¤Ä³ÈË
-		felt surprised/shocked/astonished			¸Ğµ½³Ô¾ªµÄ
-		felt grateful/thankful to sb				¶Ô...¸Ğ¼¤
+	å¼€å¿ƒ{
+		in cheerful spirits							å¿ƒæƒ…æ„‰å¿«
+		feel a mixture of excitement and happiness	å…´å¥‹åˆå¼€å¿ƒ
+		can hardly hide his excitement				å–œé¢œéš¾æ©
+		a satisfied look/expression					æ»¡æ„çš„è¡¨æƒ…
+		be overjoyed over/abstract					å› ...è€Œé«˜å…´
+		dance/jump in joy							é«˜å…´çš„è·³èµ·æ¥
+		tears of happiness flow down				æµä¸‹å¹¸ç¦çš„æ³ªæ°´
+		make one`s day								ä½¿æŸäººå¿ƒæƒ…æ„‰å¿«
+		calm sb down								ä½¿æŸäººå¹³é™
+		I was touched to find that					æ˜¯æˆ‘æ„ŸåŠ¨çš„æ˜¯
+		It has touched me deeply to					æ·±å—æ„ŸåŠ¨
+		be moved with tears in one`s eyes			çƒ­æ³ªç›ˆçœ¶
+		Touched deeply/immensenly,we...				è¢«æ·±æ·±æ„ŸåŠ¨æˆ‘ä»¬...
+		be moved/touched by his words				è¢«ä»–çš„è¯æ„ŸåŠ¨
+		be inspired by								è¢«...é¼“èˆ
+		be strongly attracted by					è¢«...å¸å¼•
+		be impressed with							å¯¹...å°è±¡æ·±åˆ»
+		be grateful to sb for sth					å› ...è€Œæ„Ÿæ¿€æŸäºº
+		felt surprised/shocked/astonished			æ„Ÿåˆ°åƒæƒŠçš„
+		felt grateful/thankful to sb				å¯¹...æ„Ÿæ¿€
 	}
 }
